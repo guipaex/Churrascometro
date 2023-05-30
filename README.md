@@ -1,6 +1,6 @@
 
 <h1>
-<img width="100%" src="./assets/img/readme__cover.jpg" alt="Portfolio - Guilherme Paes">
+<img width="100%" src="./img/project_cover.jpg">
 </h1>
 
 <center>
@@ -11,7 +11,7 @@
 ![REPO SIZE](https://img.shields.io/github/repo-size/guipaex/Churrascometro?style=for-the-badge)
 
 <br />
-<a href="https://guipaex.github.io/Churrascometro/" alt="Ver site">Ver Demo</a>
+<a href="https://guipaex.github.io/Churrascometro/" target="_blank" alt="Ver site">Ver Demo</a>
 ·
 <a href="https://github.com/guipaex/Churrascometro/issues" alt="Reportar Bug">Reportar Bug</a>
 ·
@@ -21,7 +21,7 @@
 <br />
 
 <h3>
-    Calculadora de quantidades de carne, cerveja e outras bebidas para um churrasco familiar, estimando:
+    Calculadora de quantidades de carne, cerveja e outras bebidas para um churrasco familiar, estimando as seguintes quantidades:
 </h3>
 
 <br />

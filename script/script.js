@@ -4,12 +4,11 @@ Refrigerante/Agua - 1000ml por pessoa + 6 hrs 1500ml
 Criança vale -> 0,5*/
 
 
-//identifying increase and decrease buttons
 let incButton = document.getElementsByClassName("inc");
 let decButton = document.getElementsByClassName("dec");
 
 for(i = 0; i < incButton.length; i++){
- 
+
   let button = incButton[i];
 
   //Each button 
@@ -31,7 +30,7 @@ for(i = 0; i < incButton.length; i++){
   })
 }
 for(i = 0; i < decButton.length; i++){
- 
+
   let button = decButton[i];
 
   //Each button 
@@ -69,8 +68,6 @@ function calculate(){
     let totalBeer = cervaPP(time) * adults;
     let qdtTotalBebidas = bebidaPP(time) * adults + (bebidaPP(time)/2 * children);
     let qdtTotalCarne = carnePP(time) * adults + (carnePP(time)/2 * children);
-    console.log(qdtTotalCarne);
-    console.log(totalBeer);
 
     form.display ='none';
 
@@ -88,7 +85,6 @@ function calculate(){
     } else {
       result.innerHTML += `<p>${totalBeer}ml de Cerveja</p>`
     }
-      
     result.innerHTML += `<p>${qdtTotalBebidas}ml de Bebidas</p>`
     result.innerHTML += `<button onclick="recalc()">Recalcular</button>`
 }
