@@ -1,6 +1,6 @@
 
 <h1>
-<img width="100%" src="./img/project_cover.jpg">
+<img width="100%" src="./assets/project_cover.jpg">
 </h1>
 
 <center>
