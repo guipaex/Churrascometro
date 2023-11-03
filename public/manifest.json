@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Churrascômetro",
+  "name": "Calculadora de quantias para churrascos",
   "icons": [
     {
       "src": "favicon.ico",

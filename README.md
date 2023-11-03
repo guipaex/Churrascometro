@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+<h1>
+<img width="100%" src="./assets/project_cover.jpg">
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<center>
 
-## Available Scripts
+![LICENCA](https://img.shields.io/github/license/guipaex/Churrascometro?style=for-the-badge)
+![LAST COMMIT](https://img.shields.io/github/last-commit/guipaex/Churrascometro?style=for-the-badge&color=7200FF)
+![DEPLOY](https://img.shields.io/github/deployments/guipaex/Churrascometro/github-pages?label=Deploy&style=for-the-badge)
+![REPO SIZE](https://img.shields.io/github/repo-size/guipaex/Churrascometro?style=for-the-badge)
 
-In the project directory, you can run:
+<br />
+<a href="https://guipaex.github.io/Churrascometro/" target="_blank" alt="Ver site">Ver Demo</a>
+·
+<a href="https://github.com/guipaex/Churrascometro/issues" alt="Reportar Bug">Reportar Bug</a>
+·
+<a href="https://github.com/guipaex/Churrascometro/issues" alt="Faça uma sugestão">Sugestões</a>
+</p></center>
 
-### `npm start`
+<br />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h3>
+    Calculadora de quantidades de carne, cerveja e outras bebidas para um churrasco familiar, estimando as seguintes quantidades:
+</h3>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br />
 
-### `npm test`
+  <li> 400 gramas de carne por pessoa;
+  <li> 2 Litros de cerveja por pessoa;
+  <li>1 Litro de outras bebidas (Refrigerantes, sucos e água) por pessoa.
+  <li> Crianças cosomem metade;
+  <li> 5kg de carvão para cada 6kg de carne;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br />
 
-### `npm run build`
+## Tecnologias Utilizadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![HTML5](https://img.shields.io/badge/-HTML5-f06423?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-2364f0?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-ffcd00?style=for-the-badge&logo=javascript&logoColor=black)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h3 align= 'center' width="100%" style="display:flex; justify-content:center">Feito com<img width="25px" style="margin: 0 5px; transform: translateY(5px)" src ="https://em-content.zobj.net/source/microsoft-teams/363/heart-on-fire_2764-fe0f-200d-1f525.png">por Guilherme Paes.</h3>
